@@ -1,0 +1,1 @@
+The code for the assignment is contained in a Jupyter Notebook file, so all visualizations and execution outputs are already included in the .ipynb file. The code can be run on any platform that supports Jupyter Notebook files by executing all cells.
